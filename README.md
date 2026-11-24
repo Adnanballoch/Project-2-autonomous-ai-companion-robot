@@ -15,7 +15,7 @@ OpenAI, Azure AI, Zoom, Raspberry Pi
 
 [![Autonomous AI Companion Robot](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-2-autonomous-ai-companion-robot.jpg)](https://automatrixlab.com/projects/project-2-autonomous-ai-companion-robot/)
 
-🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/2.mp4
+🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/2-20261120.mp4
 
 🌐 **See it on the site:** https://automatrixlab.com/projects/project-2-autonomous-ai-companion-robot/
 
